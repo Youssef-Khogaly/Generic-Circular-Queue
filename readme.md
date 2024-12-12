@@ -1,7 +1,7 @@
 # Generic Circular Queue
 
 
-A Generic circular queue implemented using a dynamic array. This data structure is capable of storing elements of any data type and supports the following operations:
+A Generic circular queue is implemented using a dynamic array. This data structure is capable of storing elements of any data type and supports the following operations:
 
 - Enqueue: Adds an element to the rear of the queue.
 - Dequeue: Removes and returns the element from the front of the queue. 
